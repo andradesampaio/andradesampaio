@@ -8,10 +8,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/andradesampaio/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/drandesampaio" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="_blank" width="52" height="40" alt="twitter logo"  />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
